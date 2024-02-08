@@ -1,0 +1,13 @@
+current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+/Users/pierre/.rubies/ruby-3.1.3/bin/ruby -I /Users/pierre/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240207-48490-y9sb8f sitelibdir\=./.gem.20240207-48490-y9sb8f clean
+
+current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240207-48490-y9sb8f sitelibdir\=./.gem.20240207-48490-y9sb8f
+make: Nothing to be done for `all'.
+
+current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240207-48490-y9sb8f sitelibdir\=./.gem.20240207-48490-y9sb8f install

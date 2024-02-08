@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "A propos"
+    url: /apropos.html
+
+  - title: "Comités"
+    url: /comites.html
+
+  - title : "Inscription lycées"
+    url: /lycees.html
+
+  - title: "2024"
+    url: /2024.html

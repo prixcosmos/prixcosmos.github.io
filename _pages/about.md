@@ -1,0 +1,30 @@
+---
+permalink: /
+#title: "Prix Cosmos"
+author_profile: false
+layout: single
+redirect_from:
+   - /about.html
+---
+
+{% include base_path %}
+
+
+![Tapisserie des Astronomes Manufacture de Beauvais](/images/Tapisserie-des-Astronomes.jpg){: .align-center .width-half}
+
+{::nomarkdown}
+ <center><font size="1">Tenture de l'Histoire de l'Empereur de Chine - Les Astronomes -- Détail 1 - Beauvais - 1722-1724 - Louvre - OA 12544<br> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a></font></center>
+   {:/}
+
+# Prix Cosmos du livre de vulgarisation scientifique #
+
+Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique en France.
+
+Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie et des mathématiques :
+
+Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), composé de personnalités du domaine de la diffusion scientifique.
+
+Le « Cosmos des lycéens » est décerné par des lycéens français  qui participent à l'initiative.
+
+La cérémonie de remise des prix aura lieu à l'académie des sciences à
+Paris

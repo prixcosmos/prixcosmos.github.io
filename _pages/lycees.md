@@ -10,9 +10,6 @@ permalink: /lycees.html
 
 ### Participations de lycées
 
-**ATTENTION** Cette page est en construction j'adapte celle du site de GF Bertone.
-{: .notice--danger}
-
 Les inscriptions scolaires pour l’édition 2024 du prix Cosmos des
 lycéens sont ouvertes
 

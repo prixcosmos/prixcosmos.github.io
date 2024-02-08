@@ -1,4 +1,4 @@
-current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
+current directory: /Users/pierre/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
 /Users/pierre/.rubies/ruby-3.1.3/bin/ruby -I /Users/pierre/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
@@ -31,15 +31,15 @@ checking for rb_category_warn() in ruby.h... yes
 checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
-current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20240207-48490-6ar4x sitelibdir\=./.gem.20240207-48490-6ar4x clean
+current directory: /Users/pierre/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20240208-94200-ilkbd5 sitelibdir\=./.gem.20240208-94200-ilkbd5 clean
 
-current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20240207-48490-6ar4x sitelibdir\=./.gem.20240207-48490-6ar4x
+current directory: /Users/pierre/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20240208-94200-ilkbd5 sitelibdir\=./.gem.20240208-94200-ilkbd5
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
 
-current directory: /Users/pierre/Git/prixcosmos/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20240207-48490-6ar4x sitelibdir\=./.gem.20240207-48490-6ar4x install
-/opt/homebrew/opt/coreutils/libexec/gnubin/install -c -m 0755 bigdecimal.bundle ./.gem.20240207-48490-6ar4x
+current directory: /Users/pierre/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.1.0/gems/bigdecimal-3.1.6/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20240208-94200-ilkbd5 sitelibdir\=./.gem.20240208-94200-ilkbd5 install
+/opt/homebrew/opt/coreutils/libexec/gnubin/install -c -m 0755 bigdecimal.bundle ./.gem.20240208-94200-ilkbd5

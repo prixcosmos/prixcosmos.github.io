@@ -10,7 +10,7 @@ permalink: /lycees.html
 
 ### Participations de lycées
 
-Les inscriptions scolaires pour l’édition 2024 du prix Cosmos des
+Les inscriptions scolaires pour l’édition 2025 du prix Cosmos des
 lycéens sont ouvertes
 
 **Qui peut participer?**

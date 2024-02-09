@@ -18,7 +18,7 @@ redirect_from:
 
 # Prix Cosmos du livre de vulgarisation scientifique #
 
-Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique.
+Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique en langue française.
 
 Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie et des mathématiques :
 

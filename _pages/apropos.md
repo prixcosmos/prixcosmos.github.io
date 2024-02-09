@@ -15,7 +15,7 @@ permalink: /apropos.html
 Le Prix Cosmos est une initiative dont l’objectif principal est la promotion de la culture scientifique.
 Au sein du réseaux européen [EUCAPT](https://www.eucapt.org), un groupe de physiciennes et physiciens envisage d’importer en
 France à partir de 2024 (et, en perspective, dans le monde francophone) le concours pour les livres de
-vulgarisation scientifique qui a déjà connu un grand succès en Italie et aux Pays-Bas. 
+vulgarisation scientifique qui a déjà connu un grand succès en [Italie](https://premiocosmos.org/premio-cosmos/) et aux [Pays-Bas](https://www.cosmosboekenprijs.nl/). 
 
 Chaque année, deux prix seront décernés aux meilleurs livres de diffusion scientifique publié en français,
 prioritairement dans les domaines de la physique, de l’astronomie et des mathématiques, ou dans les

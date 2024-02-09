@@ -20,11 +20,9 @@ redirect_from:
 
 Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique en langue française.
 
-Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie et des mathématiques :
+Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie, des mathématiques et des sciences en général.
 
-Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), composé de personnalités du domaine de la diffusion scientifique.
+Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), composé de chercheurs et des personnalités du domaine de la diffusion scientifique.
 
-Le « Cosmos des lycéens » est décerné par des lycéens français  qui participent à l'initiative.
+Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger qui participent à l'initiative.
 
-La cérémonie de remise des prix aura lieu à l'académie des sciences à
-Paris

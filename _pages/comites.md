@@ -33,6 +33,9 @@ galleryCS:
   - image_path: /sacha-davidson.png
     alt: "Sacha Davidson"
     excerpt: "**Sacha Davidson** <br> IN2P3, CNRS"
+  - image_path: /Julien-Masbou.png
+    alt: "Julien Masbou"
+    excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
   - image_path: /fathi-namouni.png
     alt: "Fathi Namouni"
     excerpt: "**Fathi Namouni** <br> Laboratoire Lagrange,<br> CNRS, Observatoire de la Côte d'Azur,<br> Université Côte d'Azur"

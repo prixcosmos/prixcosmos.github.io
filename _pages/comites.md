@@ -18,7 +18,7 @@ galleryCO:
     alt: "Pierre Vanhove"
     excerpt: "**Pierre Vanhove** <br> Président<br>Institut de Physique Théorique,<br>CEA Saclay"
 galleryCS:
-  - image_path: /matteo-barsuglia.png
+  - image_path: /Matteo-Barsuglia.png
     alt: "Matteo Barsuglia"
     excerpt: "**Matteo Barsuglia** <br> CNRS, Laboratoire AstroParticule et Cosmologie, Paris"
   - image_path: /sophie-becherel.jpg

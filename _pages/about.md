@@ -20,7 +20,7 @@ redirect_from:
 
 Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique.
 Cette édition française, mise en place à l'occasion de l'année de la
-physique 2024 du CNRS, fait partie d'une intitiative internationale
+physique 2024 du CNRS[^1], fait partie d'une intitiative internationale
 débutée avec le [Premio Cosmos](http://cosmosprize.org/) par le  [Professeur Gianfranco Bertone](https://gianfrancobertone.net) en collaboration avec [Città Metropolitana of Reggio Calabria](https://www.cittametropolitana.rc.it/).
 
 Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie, des mathématiques et des sciences en général.
@@ -28,4 +28,6 @@ Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scie
 Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), composé de chercheurs et des personnalités du domaine de la diffusion scientifique.
 
 Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger. Ce prix est [ouvert](/lycees.html) à tout lycée français, collège en Suisse ou élèves du cycle supérieur en Belgique souhaitant participer à cette initiative.
+
+[^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et pge du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/)
 

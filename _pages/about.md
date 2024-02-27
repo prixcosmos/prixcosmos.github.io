@@ -21,7 +21,7 @@ redirect_from:
 Le Prix Cosmos est une initiative dont l'objectif principal est la promotion de la culture scientifique.
 Cette édition française, mise en place à l'occasion de l'année de la
 physique 2024 du CNRS[^1], fait partie d'une intitiative internationale
-débutée avec le [Premio Cosmos](http://cosmosprize.org/) par le  [Professeur Gianfranco Bertone](https://gianfrancobertone.net) en collaboration avec [Città Metropolitana of Reggio Calabria](https://www.cittametropolitana.rc.it/).
+débutée avec le [Premio Cosmos](http://cosmosprize.org/) par le  [Professeur Gianfranco Bertone](https://gianfrancobertone.net) en collaboration avec [Città Metropolitana](https://www.cittametropolitana.rc.it/) de la région de Calabre en Italie.
 
 Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scientifique publiés en français dans les domaines de la physique, de l'astronomie, des mathématiques et des sciences en général.
 

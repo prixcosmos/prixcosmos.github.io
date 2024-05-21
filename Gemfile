@@ -11,7 +11,6 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
@@ -33,4 +32,3 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
-

@@ -125,8 +125,20 @@ body:hover .visually-hidden button {
 /* width */
 
 .width-70 {
-  width: 70%
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 70%;
 }
+.width-50 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
 
 .width-half {
     width: 50%

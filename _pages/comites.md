@@ -1,6 +1,8 @@
 ---
-toc: true
 layout: single
+toc: true
+toc_sticky: true
+toc_label: "Comités"
 title: "Comités Scientifiques"
 author_profile: false
 permalink: /comites.html
@@ -49,8 +51,6 @@ galleryCS:
 
 {% include base_path %}
    
-
-
 Le comité scientifique est composé de 14 personnalités du monde scientifique et des média ayant une expérience dans la diffusion scientifique.
 
 Le comité est présidé par Pierre Vanhove, chercheur à l'Institut de
@@ -75,4 +75,3 @@ des ouvrages reçus des maisons d’édition. Il participe à  la présélection
 lycées et décerne le prix du jury.
 
 {% include feature_row id="galleryCS" layout="third" %}
-

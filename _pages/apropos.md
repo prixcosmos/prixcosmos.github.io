@@ -2,6 +2,10 @@
 #title: "Prix Cosmos"
 author_profile: false
 permalink: /apropos.html
+toc: true
+toc_sticky: true
+toc_label: "A propos"
+layout: single
 ---
 
 {% include base_path %}
@@ -36,3 +40,7 @@ opposé au χάoς (chaos), l’abyme, le vide.
 Le mot cosmos est également fortement lié à la diffusion scientifique, puisqu’il est partagé par le titre
 du célèbre ouvrage Kosmos d’Alexander von Humboldt au XIX siècle ainsi que par le célèbre ouvrage de
 vulgarisation scientifique (livre et série télévisée Cosmos en 1980) de Carl Sagan.
+
+## Contact
+
+Vous pouvez contacter le comité d'organisation en remplissant le [formulaire de contact](https://docs.google.com/forms/d/e/1FAIpQLScndjFnBdkdg4pxeIvipsr9l6bv5dw7_TOSoIZZ0VgUcwJPTA/viewform?vc=0&c=0&w=1&flr=0)

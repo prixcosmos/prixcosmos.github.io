@@ -2,15 +2,15 @@
 permalink: /
 #title: "Prix Cosmos"
 author_profile: false
-layout: single
 redirect_from:
    - /about.html
+layout: single
 ---
 
 {% include base_path %}
 
 
-![Tapisserie des Astronomes Manufacture de Beauvais](/images/Tapisserie-des-Astronomes.jpg){: .align-center .width-half}
+![Tapisserie des Astronomes Manufacture de Beauvais](/images/Tapisserie-des-Astronomes.jpg){: .align-center .width-70}
 
 {::nomarkdown}
  <center><font size="1">Tenture de l'Histoire de l'Empereur de Chine - Les Astronomes -- Détail 1 - Beauvais - 1722-1724 - Louvre - OA 12544<br> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a></font></center>
@@ -29,5 +29,4 @@ Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), 
 
 Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger. Ce prix est [ouvert](/lycees.html) à tout lycée français, collège en Suisse ou élèves du cycle supérieur en Belgique souhaitant participer à cette initiative.
 
-[^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et pge du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/)
-
+[^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et page du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/)

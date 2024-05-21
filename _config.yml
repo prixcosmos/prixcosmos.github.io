@@ -14,7 +14,7 @@ title                    : "Prix Cosmos"
 title_separator          : "-"
 name                     : &name "Prix Cosmos"
 description              : &description "Prix Cosmos"
-url                      : https://prixcosmos.github.io 
+url                      : https://prixcosmos.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prixcosmos/prixcosmos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -52,20 +52,24 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-#footer
-footer:
-  links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/profile.php?id=61556445653958"
-
-
-
+# Social Sharing
+facebook:
+  username               : "61556445653958"
+  app_id                 :
+  publisher              :
+# For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+
+
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 
 
 # Site Author
@@ -170,11 +174,12 @@ defaults:
       author_profile: false
 
 
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 
 # Outputting
@@ -191,10 +196,10 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
-  - jekyll-algolia
+  - jekyll-include-cache
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "dark" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
   
 # mimic GitHub Pages with --safe
 whitelist:

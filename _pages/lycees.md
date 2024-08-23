@@ -22,9 +22,9 @@ Les inscriptions pour 2025 sont closes mais si vous êtes intéressé veuillez c
 
 * [formulaire de contact](https://docs.google.com/forms/d/e/1FAIpQLSf6lookkpYk4KgL4xMosmkZwx9-yBtEed2a03S1pWagMAlqwg/viewform?usp=sf_link)
 
-#**Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **31 juillet 2024 à 23h59.**
-#Pour plus d'informations, voir l'avis de participation ci-dessous
+[comment]: **Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **31 juillet 2024 à 23h59.**
+[comment]: Pour plus d'informations, voir l'avis de participation ci-dessous
 
 * Descriptif du déroulement du prix Cosmos des lycéens [pdf](/files/PrixCosmos-livret-lycees.pdf)
 
-#* [Formulaire d'inscription](https://docs.google.com/forms/d/1LEoLW975NPIiQdp8iZvyGalnBTq_SVvEkmvWnl9hUTo/edit)
+[comment]: * [Formulaire d'inscription](https://docs.google.com/forms/d/1LEoLW975NPIiQdp8iZvyGalnBTq_SVvEkmvWnl9hUTo/edit)

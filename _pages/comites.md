@@ -47,6 +47,9 @@ galleryCS:
   - image_path: /giulia-vannoni.jpg
     alt: "Giulia Vannoni"
     excerpt: "**Giulia Vannoni**<br>cheffe de projet du Paris Centre for Cosmological Physics,<br> laboratoire Astroparticule et Cosmologie,<br> Université Paris Cité"
+  - image_path: /Youssef-Abdelaziz.jpg
+    alt: "Youssef Abdelaziz"
+    excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
 ---
 
 {% include base_path %}

@@ -6,11 +6,14 @@ main:
   - title: "Comités"
     url: /comites.html
 
-  - title : "Inscription lycées"
-    url: /lycees.html
+  - title : "Inscription Scolaires"
+    url: /etablissements-scolaires.html
 
-  - title: "Edition 2024"
-    url: /2024.html
+  - title: "2025"
+    url: /2025.html
+
+  - title: "Editions précédantes"
+    url: /precedant.html
 
   - title: "Sponsors"
     url: /sponsors.html

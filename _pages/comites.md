@@ -20,9 +20,9 @@ galleryCO:
     alt: "Pierre Vanhove"
     excerpt: "**Pierre Vanhove** <br> Président<br>Institut de Physique Théorique,<br>CEA Saclay"
 galleryCS:
-  - image_path: /Matteo-Barsuglia.png
-    alt: "Matteo Barsuglia"
-    excerpt: "**Matteo Barsuglia** <br> CNRS, Laboratoire AstroParticule et Cosmologie, Paris"
+  - image_path: /Youssef-Abdelaziz.jpg
+    alt: "Youssef Abdelaziz"
+    excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
   - image_path: /sophie-becherel.jpg
     alt: "Sophie Bécherel"
     excerpt: "**Sophie Bécherel** <br> France Inter"
@@ -34,22 +34,13 @@ galleryCS:
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"
   - image_path: /sacha-davidson.png
     alt: "Sacha Davidson"
-    excerpt: "**Sacha Davidson** <br> IN2P3, CNRS"
+    excerpt: "**Sacha Davidson** <br> Institut de Physique des deux Infinis de Lyon"
   - image_path: /Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
-  - image_path: /fathi-namouni.png
-    alt: "Fathi Namouni"
-    excerpt: "**Fathi Namouni** <br> Laboratoire Lagrange,<br> CNRS, Observatoire de la Côte d'Azur,<br> Université Côte d'Azur"
   - image_path: /Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"
-  - image_path: /giulia-vannoni.jpg
-    alt: "Giulia Vannoni"
-    excerpt: "**Giulia Vannoni**<br>cheffe de projet du Paris Centre for Cosmological Physics,<br> laboratoire Astroparticule et Cosmologie,<br> Université Paris Cité"
-  - image_path: /Youssef-Abdelaziz.jpg
-    alt: "Youssef Abdelaziz"
-    excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
 ---
 
 {% include base_path %}

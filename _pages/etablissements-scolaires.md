@@ -17,7 +17,7 @@ Peuvent participer les étudiants inscrits dans des écoles publiques ou privée
 
 **Comment participer ?** Les écoles intéressées devront identifier un enseignant contact. L'enseignant constituera un  jury composé d'élèves, au nombre de 10 à 20, et remplira le formulaire d'inscription disponible ci-dessous. Le nombre maximum d'établissements pouvant participer au prix est de 40. La sélection des écoles admises à participer au Prix s'effectuera selon l'ordre chronologique d'arrivée du formulaire d'inscription.
 
-Les inscriptions pour 2025 sont closes mais si vous êtes intéressé veuillez contacter les organisateur avec le formulaire de contact
+Les inscriptions pour 2025 sont closes mais si vous êtes intéressés veuillez contacter les organisateur avec le formulaire de contact
 {: .notice--warning}
 
 

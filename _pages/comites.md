@@ -35,6 +35,9 @@ galleryCS:
   - image_path: /sacha-davidson.png
     alt: "Sacha Davidson"
     excerpt: "**Sacha Davidson** <br> Institut de Physique des deux Infinis de Lyon"
+  - image_path: /Marie-Therese-Lehoucq.png
+    alt: "Marie-Thérèse Lehoucq"
+    excerpt: "**Marie-Thérèse Lehoucq** <br> Professeure en lycée général, Présidente de l’Union des professeurs de physique et de chimie (UdPPC)"
   - image_path: /Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"

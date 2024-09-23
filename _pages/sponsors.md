@@ -13,5 +13,5 @@ layout: single
 
 Nous remercions les institutions suivantes pour leur soutien financier
 
-* ![ANR](/images/ANR-logo-2021-sigle.jpg){: .width-70} [Agence
+* ![ANR](/images/anr-logo-2021@2x.png){: .width-50} [Agence
 nationale de la recherche](http://www.anr.fr)

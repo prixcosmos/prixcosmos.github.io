@@ -19,3 +19,5 @@ nationale de la recherche](http://www.anr.fr)
 * [CNRS](http://www.cnrs.fr)
 
 * [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
+
+* [Fondation Daniel Iagolnitzer](https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-daniel-iagolnitzer)

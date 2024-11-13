@@ -23,9 +23,9 @@ galleryCS:
   - image_path: /Youssef-Abdelaziz.jpg
     alt: "Youssef Abdelaziz"
     excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
-  - image_path: /sophie-becherel.jpg
-    alt: "Sophie Bécherel"
-    excerpt: "**Sophie Bécherel** <br> France Inter"
+  - image_path: /nathalie-mayer.png
+    alt: "Nathalie Mayer"
+    excerpt: "**Nathalie Mayer** <br> Futura"
   - image_path: /joanna-berteaud.jpg
     alt: "Joanna Bertaud"
     excerpt: "**Joanna Berteaud** <br> University of Maryland/NASA Goddard Space Flight Center"

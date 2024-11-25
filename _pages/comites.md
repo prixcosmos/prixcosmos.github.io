@@ -41,6 +41,9 @@ galleryCS:
   - image_path: /nathalie-mayer.png
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
+  - image_path: /Lucie-Sarfaty.jpg
+    alt: "Lucie Sarfaty"
+    excerpt: "**Lucie Safarty**<br> France Inter - La Terre au Carré"
   - image_path: /Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"

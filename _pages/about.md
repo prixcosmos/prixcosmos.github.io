@@ -29,6 +29,6 @@ Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), 
 
 Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger. Ce prix est [ouvert](/lycees.html) à tout lycée français, collège en Suisse ou élèves du cycle supérieur en Belgique souhaitant participer à cette initiative.
 
-[^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et page du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/)
+[^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et page du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/) sur le site du CNRS
 
 [^2]: Une présentation de cette action européenne en [anglais](https://cosmosprize.org/about/) sur la page du [Cosmos Prize](https://cosmosprize.org)

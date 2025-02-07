@@ -29,7 +29,7 @@ un espace de dialogue entre élèves et auteurs. Une attention particulière ser
 l’initiative des établissements qui, typiquement pour des contraintes géographiques, ont un accès plus
 difficile à des manifestations de vulgarisation de haut niveau.
 
-[^1]: Ce document utilise toujours les termes lycée, lycéenne et lycéen par simplicité, mais tout établissement d’enseignement secondaire, pour élèves entre 16 et 18 ans environ, peu importe la filière, en France ou, en perspective, dans le monde francophone, est éligible.
+[^1]: Ce texte utilise toujours les termes lycée, lycéenne et lycéen par simplicité, mais tout établissement d’enseignement secondaire, pour élèves entre 16 et 18 ans environ, peu importe la filière, en France ou, en perspective, dans le monde francophone, est éligible.
 
 ## Pourquoi “Cosmos” ##
 

@@ -16,10 +16,12 @@ Nous remercions les institutions suivantes pour leur soutien financier ou d’or
 * ![ANR](/images/anr-logo-2021_small.png) [Agence
 nationale de la recherche](http://www.anr.fr)
 
-* [CNRS](http://www.cnrs.fr)
+* ![CNRS](/images/logo_cnrs.png) [CNRS](http://www.cnrs.fr)
 
-* [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
+* ![UPPdC](/images/logo_uppc.png) [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
 
-* [Fondation Daniel Iagolnitzer](https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-daniel-iagolnitzer)
+* ![Fondation Daniel Iagolnitzer](/images/fondation-iagolnitzer.png) [Fondation Daniel Iagolnitzer](https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-daniel-iagolnitzer)
 
 * ![SFP](/images/logo_sfp.jpg) [Société Française de Physique](https://www.sfpnet.fr)
+
+* ![CEA](/images/LOGO_CEA_SMALL.jpg) [Commissariat à l'énergie atomique et aux énergies alternatives](http://www.cea.fr)

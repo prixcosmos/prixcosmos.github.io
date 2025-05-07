@@ -2,13 +2,13 @@
 permalink: /trophee.html
 author_profile: false
 layout: single
+---
 
 {% include base_path %}
 
-**Trophée des prix Cosmos**
+# **Trophée des prix Cosmos**
 {: .text-center}
 
-## Trophée 
 
  
 ![meteorite](/images/meteorite.png){: .align-center .width-50}

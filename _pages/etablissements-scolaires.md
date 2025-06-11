@@ -17,15 +17,17 @@ Peuvent participer les étudiants inscrits dans des écoles publiques ou privée
 
 **Comment participer ?** Les écoles intéressées devront identifier un enseignant contact. L'enseignant constituera un  jury composé d'élèves, au nombre de 10 à 20, et remplira le formulaire d'inscription disponible ci-dessous. Le nombre maximum d'établissements pouvant participer au prix est de 40. La sélection des écoles admises à participer au Prix s'effectuera selon l'ordre chronologique d'arrivée du formulaire d'inscription.
 
-Les inscriptions pour 2025 sont closes mais si vous êtes intéressés veuillez contacter les organisateur avec le formulaire de contact
+Les inscriptions pour 2026 sont ouvertes si vous êtes intéressés veuillez renseigner le formulaire d'inscription
 {: .notice--warning}
 
+[comment]: contacter les organisateur avec le formulaire de contact
 
-* [formulaire de contact](https://docs.google.com/forms/d/e/1FAIpQLSf6lookkpYk4KgL4xMosmkZwx9-yBtEed2a03S1pWagMAlqwg/viewform?usp=sf_link)
 
-[comment]: **Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **31 juillet 2024 à 23h59.**
-[comment]: Pour plus d'informations, voir l'avis de participation ci-dessous
+[comment]: * [formulaire de contact](https://forms.gle/SQXR2a2NR6ugDSj1A)
 
-[comment]: * Descriptif du déroulement du prix Cosmos des lycéens [pdf](/files/PrixCosmos-livret-lycees.pdf)
+**Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **31 juillet 2025 à 23h59.**
+Pour plus d'informations, voir l'avis de participation ci-dessous
 
-[comment]: * [Formulaire d'inscription](https://docs.google.com/forms/d/1LEoLW975NPIiQdp8iZvyGalnBTq_SVvEkmvWnl9hUTo/edit)
+* Descriptif du déroulement du prix Cosmos des lycéens [pdf](/files/PrixCosmos-livret-lycees.pdf)
+
+* [Formulaire d'inscription](https://docs.google.com/forms/d/1LEoLW975NPIiQdp8iZvyGalnBTq_SVvEkmvWnl9hUTo/edit)

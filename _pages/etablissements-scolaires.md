@@ -25,7 +25,7 @@ Les inscriptions pour 2026 sont ouvertes si vous êtes intéressés veuillez ren
 
 [comment]: * [formulaire de contact](https://forms.gle/SQXR2a2NR6ugDSj1A)
 
-**Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **30 novembre 2025 à 23h59.**
+**Dates importantes ?** Le formulaire d'inscription (voir lien ci-dessous) doit être soumis avant le **5 octobre 2025 à 23h59.**
 Pour plus d'informations, voir l'avis de participation ci-dessous
 
 * Descriptif du déroulement du prix Cosmos des lycéens [pdf](/files/PrixCosmos-livret-lycees.pdf)

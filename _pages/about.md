@@ -27,7 +27,7 @@ Chaque année, deux prix sont décernés aux meilleurs travaux de diffusion scie
 
 Le « Prix Cosmos » est décerné par un [comité scientifique](comites.html), composé de chercheurs et des personnalités du domaine de la diffusion scientifique.
 
-Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger. Ce prix est [ouvert](/lycees.html) à tout lycée français, collège en Suisse ou élèves du cycle supérieur en Belgique souhaitant participer à cette initiative.
+Le « Cosmos des lycéens » est décerné par des élèves de lycées en France et à l'étranger. Ce prix est [ouvert](/etablissements-scolaires.html) à tout lycée français, collège en Suisse ou élèves du cycle supérieur en Belgique souhaitant participer à cette initiative.
 
 [^1]: Page du [prix comité](https://anneedelaphysique.cnrs.fr/ressource/prix-cosmos/) et page du [prix des lycéens](https://anneedelaphysique.cnrs.fr/espace-scolaire/prix-cosmos-des-lyceens/) sur le site du CNRS
 

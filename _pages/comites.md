@@ -15,7 +15,7 @@ galleryCO:
     excerpt: "**Pasquale Dario Serpico**<br>Laboratoire d'Annecy-le-Vieux de Physique Théorique,<bR> Annecy"
   - image_path: /Marie-Therese-Lehoucq.png
     alt: "Marie-Thérèse Lehoucq"
-    excerpt: "**Marie-Thérèse Lehoucq** <br>Professeure en lycée général, Présidente de l’Union des professeurs de physique et de chimie (UdPPC)"    
+    excerpt: "**Marie-Thérèse Lehoucq** <br>Professeure en lycée général,<br> Vice-présidente en charge de la culture scientifique<br> Union des professeurs de physique et de chimie (UdPPC)"    
   - image_path: /ana-teixeira.jpg
     alt: "Ana Teixeira"
     excerpt: "**Ana Teixeira** <br> Laboratoire de Physique de Clermont,<br> Clermont Auvergne"

@@ -1,5 +1,5 @@
 ---
-permalink: /precedant.html
+permalink: /precedent.html
 author_profile: false
 toc: false
 toc_sticky: true

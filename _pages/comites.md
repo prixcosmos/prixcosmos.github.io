@@ -2,7 +2,7 @@
 layout: single
 toc: true
 toc_sticky: true
-toc_label: "Comités 2025"
+toc_label: "Comités 2026"
 title: "Comités Scientifiques"
 author_profile: false
 permalink: /comites.html
@@ -68,7 +68,7 @@ Membres du comité d'organisation en charge de l’organisation logistique, fina
 
 {% include feature_row id="galleryCO"  %}
 
-## Comité scientifique  2025 ##
+## Comité scientifique ##
 
 Il a des fonctions consultatives, ainsi que le rôle de comité de lecture
 des ouvrages reçus des maisons d’édition. Il participe à  la présélection des ouvrages à envoyer aux

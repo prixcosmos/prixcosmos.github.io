@@ -13,6 +13,8 @@ layout: single
 
 Nous remercions les institutions suivantes pour leur soutien financier ou d’organisation
 
+* ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/fr)
+
 * ![ANR](/images/anr-logo-2021_small.png) [Agence
 nationale de la recherche](http://www.anr.fr) projet  [ANR-20-CE40-0026-01](https://smagp.pages.math.cnrs.fr)
 

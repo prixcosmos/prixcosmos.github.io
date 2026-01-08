@@ -28,6 +28,6 @@ nationale de la recherche](http://www.anr.fr) projet  [ANR-20-CE40-0026-01](http
 
 * ![SFP](/images/logo_sfp.jpg) [Société Française de Physique](https://www.sfpnet.fr)
 
-* ![CEA](/images/LOGO_CEA_SMALL.jpg) [Commissariat à l'énergie atomique et aux énergies alternatives](http://www.cea.fr)
+[comment]: * ![CEA](/images/LOGO_CEA_SMALL.jpg) [Commissariat à l'énergie atomique et aux énergies alternatives](http://www.cea.fr)
 
 * [Collège Claparède](https://edu.ge.ch/secondaire2/clap/accueil), Genève, Suisse

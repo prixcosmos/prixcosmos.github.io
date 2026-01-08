@@ -15,12 +15,13 @@ Nous remercions les institutions suivantes pour leur soutien financier ou d’or
 
 * ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/fr)
 
-* ![ANR](/images/anr-logo-2021_small.png) [Agence
-nationale de la recherche](http://www.anr.fr) projet  [ANR-20-CE40-0026-01](https://smagp.pages.math.cnrs.fr)
+* ![ANR](/images/anr-logo-2021_small.png) [Agence nationale de la recherche](http://www.anr.fr) 
 
-* ![CNRS](/images/logo_cnrs.png) [CNRS](http://www.cnrs.fr)
+* ![CNRS](/images/logo_cnrs.png) [CNRS](http://www.cnrs.fr) : [CNRS Physique](https://www.inp.cnrs.fr/fr) et [Institut national de physique nucléaire et de physique des particules](https://www.in2p3.cnrs.fr/fr)
 
 * ![IPhT](/images/logo_ipht.png) [Institut de Physique Théorique](http://www.ipht.fr)
+
+* ![LAPTh](/images/logo_lapth.png) [Laboratoire d’Annecy de Physique Théorique](https://www.lapth.cnrs.fr)
 
 * ![UPPdC](/images/logo_uppc.png) [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
 

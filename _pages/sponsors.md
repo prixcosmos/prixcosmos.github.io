@@ -13,7 +13,7 @@ layout: single
 
 Nous remercions les institutions suivantes pour leur soutien financier ou d’organisation
 
-* ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/fr)
+* ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/en/endorsed-activities/global-cosmos-prize-programme-science-literacy)
 
 * ![ANR](/images/anr-logo-2021_small.png) [Agence nationale de la recherche](http://www.anr.fr) 
 

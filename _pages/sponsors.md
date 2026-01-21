@@ -15,6 +15,8 @@ Nous remercions les institutions suivantes pour leur soutien financier ou d’or
 
 * ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/en/endorsed-activities/global-cosmos-prize-programme-science-literacy)
 
+* ![Académie des sciences](/image/logo_acad.png) [Académie des Sciences](https://www.academie-sciences.fr)
+
 * ![ANR](/images/anr-logo-2021_small.png) [Agence nationale de la recherche](http://www.anr.fr) 
 
 * ![CNRS](/images/logo_cnrs.png) [CNRS](http://www.cnrs.fr) : [CNRS Physique](https://www.inp.cnrs.fr/fr) et [Institut national de physique nucléaire et de physique des particules](https://www.in2p3.cnrs.fr/fr)

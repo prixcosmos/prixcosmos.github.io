@@ -33,6 +33,7 @@ Nous remercions les institutions suivantes pour leur soutien financier et logist
 
 # Instituts de recherche
 
+* Institut Cosmos (Alliance Sorbonne Université)
 
 * ![IPhT](/images/logo_ipht.png) [Institut de Physique Théorique](http://www.ipht.fr)
 

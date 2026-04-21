@@ -28,7 +28,7 @@ galleryCS:
     excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
   - image_path: /joanna-berteaud.jpg
     alt: "Joanna Bertaud"
-    excerpt: "**Joanna Berteaud** <br> University of Maryland/NASA Goddard Space Flight Center"
+    excerpt: "**Joanna Berteaud** <br> The Royal Holloway, University of London"
   - image_path: /francoise-combes.png
     alt: "Françoise Combes"
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"

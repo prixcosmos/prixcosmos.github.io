@@ -11,6 +11,10 @@ layout: single
 
 
  
-![meteorite](/images/meteorite.png){: .align-center .width-50}
+![meteorite](/images/trophee/photo-meteorites.JPG){: .align-center .width-50}
 
 Le prix est un spécimen de météorite découverte en Argentine à l'emplacement connu sous le nom de  [Campo del Cielo](https://fr.wikipedia.org/wiki/Campo_del_Cielo) (le champ du ciel en Espagnol) ferreuse, sidérite  de type octahédrite. C'est une météorite ferreuse composée presque exclusivement de fer et d’un peu de nickel. 
+
+Météorite             |  Localisation du Campo del Cielo en Argentine
+:-------------------------:|:-------------------------:
+![meteorite](/images/trophee/meteorite.png)  | ![Campo del Ciel0](/images/trophee/Campo-del-Cielo.png) 

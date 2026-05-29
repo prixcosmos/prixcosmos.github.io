@@ -7,44 +7,44 @@ title: "Comités Scientifiques"
 author_profile: false
 permalink: /comites.html
 galleryCO:
-  - image_path: /marco-cirelli.jpg
+  - image_path: /trombi/marco-cirelli.jpg
     alt: "Marco Cirelli"
     excerpt: "**Marco Cirelli** <br> Laboratoire de Physique Théorique et Hautes Énergies,<br> Sorbonne Université, Paris"
-  - image_path: /pasquale-dario-serpico.jpg
+  - image_path: /trombi/pasquale-dario-serpico.jpg
     alt: "Pasquale Dario Serpico"
     excerpt: "**Pasquale Dario Serpico**<br>Laboratoire d'Annecy-le-Vieux de Physique Théorique,<bR> Annecy"
-  - image_path: /Marie-Therese-Lehoucq.png
+  - image_path: /trombi/Marie-Therese-Lehoucq.png
     alt: "Marie-Thérèse Lehoucq"
     excerpt: "**Marie-Thérèse Lehoucq** <br>Professeure en lycée général,<br> Vice-présidente en charge de la culture scientifique<br> Union des professeurs de physique et de chimie (UdPPC)"    
-  - image_path: /ana-teixeira.jpg
+  - image_path: /trombi/ana-teixeira.jpg
     alt: "Ana Teixeira"
     excerpt: "**Ana Teixeira** <br> Laboratoire de Physique de Clermont,<br> Clermont Auvergne"
-  - image_path: /pierre-vanhove.jpg
+  - image_path: /trombi/pierre-vanhove.jpg
     alt: "Pierre Vanhove"
     excerpt: "**Pierre Vanhove** <br> Président<br>Institut de Physique Théorique,<br>CEA Saclay"
 galleryCS:
-  - image_path: /Youssef-Abdelaziz.jpg
+  - image_path: /trombi/Youssef-Abdelaziz.jpg
     alt: "Youssef Abdelaziz"
     excerpt: "**Youssef Abdelaziz**<br>Core Curriculum and Physics Department at The American University in Cairo et Laboratoire SPHERE Université Paris Cité"
-  - image_path: /joanna-berteaud.jpg
+  - image_path: /trombi/joanna-berteaud.jpg
     alt: "Joanna Bertaud"
     excerpt: "**Joanna Berteaud** <br> The Royal Holloway, University of London"
-  - image_path: /francoise-combes.png
+  - image_path: /trombi/francoise-combes.png
     alt: "Françoise Combes"
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"
-  - image_path: /sacha-davidson.png
+  - image_path: /trombi/sacha-davidson.png
     alt: "Sacha Davidson"
     excerpt: "**Sacha Davidson** <br> Institut de Physique des deux Infinis de Lyon"
-  - image_path: /Julien-Masbou.png
+  - image_path: /trombi/Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
-  - image_path: /nathalie-mayer.png
+  - image_path: /trombi/nathalie-mayer.png
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
-  - image_path: /Lucie-Sarfaty.jpg
+  - image_path: /trombi/Lucie-Sarfaty.jpg
     alt: "Lucie Sarfaty"
     excerpt: "**Lucie Sarfaty**<br> France Inter - La Terre au Carré"
-  - image_path: /Laurent-Sacco.jpg
+  - image_path: /trombi/Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"
 ---

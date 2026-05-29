@@ -21,38 +21,38 @@ Nous remercions les institutions suivantes pour leur soutien financier et logist
 
 # labellisation
 
-* ![Décennie internationale des sciences au service du développement durable](/images/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/en/endorsed-activities/global-cosmos-prize-programme-science-literacy)
+* ![Décennie internationale des sciences au service du développement durable](/images/logo/horizontal.png){:width="200px"} [Décennie internationale des sciences au service du développement durable](https://www.un-sciences-decade.org/en/endorsed-activities/global-cosmos-prize-programme-science-literacy)
 
 # Établissements publics à caractère scientifique et technologique
 
-* ![ANR](/images/anr-logo-2021_small.png) [Agence nationale de la recherche](http://www.anr.fr) 
+* ![ANR](/images/logo/anr-logo-2021_small.png) [Agence nationale de la recherche](http://www.anr.fr) 
 
-* ![CNRS](/images/logo_cnrs.png) [CNRS](http://www.cnrs.fr) : [CNRS Physique](https://www.inp.cnrs.fr/fr) et [Institut national de physique nucléaire et de physique des particules](https://www.in2p3.cnrs.fr/fr)
+* ![CNRS](/images/logo/logo_cnrs.png) [CNRS](http://www.cnrs.fr) : [CNRS Physique](https://www.inp.cnrs.fr/fr) et [Institut national de physique nucléaire et de physique des particules](https://www.in2p3.cnrs.fr/fr)
 
-* ![IHP](/images/logo_IHP_SU_CNRS.png){:width="100px"} [Institut Henri Poincaré](http://www.ihp.fr)
+* ![IHP](/images/logo/logo_IHP_SU_CNRS.png){:width="100px"} [Institut Henri Poincaré](http://www.ihp.fr)
 
 # Instituts de recherche
 
 * Institut Cosmos (Alliance Sorbonne Université)
 
-* ![IPhT](/images/logo_ipht.png) [Institut de Physique Théorique](http://www.ipht.fr)
+* ![IPhT](/images/logo/logo_ipht.png) [Institut de Physique Théorique](http://www.ipht.fr)
 
-* ![LAPTh](/images/logo_lapth.png) [Laboratoire d’Annecy de Physique Théorique](https://www.lapth.cnrs.fr)
+* ![LAPTh](/images/logo/logo_lapth.png) [Laboratoire d’Annecy de Physique Théorique](https://www.lapth.cnrs.fr)
 
 # Sociétés savantes
 
-* ![Académie des sciences](/images/logo_acad.png){:width="200px"} [Académie des Sciences](https://www.academie-sciences.fr)
+* ![Académie des sciences](/images/logo/logo_acad.png){:width="200px"} [Académie des Sciences](https://www.academie-sciences.fr)
 
-* ![UPPdC](/images/logo_uppc.png) [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
+* ![UPPdC](/images/logo/logo_uppc.png) [Union des Professeurs de Physique et de Chimie](https://www.udppc.asso.fr)
 
-* ![SFP](/images/logo_sfp.jpg) [Société Française de Physique](https://www.sfpnet.fr)
+* ![SFP](/images/logo/logo_sfp.jpg) [Société Française de Physique](https://www.sfpnet.fr)
 
 # Fondations
 
-* ![Fondation Daniel Iagolnitzer](/images/fondation-iagolnitzer.png) [Fondation Daniel Iagolnitzer](https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-daniel-iagolnitzer)
+* ![Fondation Daniel Iagolnitzer](/images/logo/fondation-iagolnitzer.png) [Fondation Daniel Iagolnitzer](https://www.fondationdefrance.org/fr/annuaire-des-fondations/fondation-daniel-iagolnitzer)
 
 
-[comment]: * ![CEA](/images/LOGO_CEA_SMALL.jpg) [Commissariat à l'énergie atomique et aux énergies alternatives](http://www.cea.fr)
+[comment]: * ![CEA](/images/logo/LOGO_CEA_SMALL.jpg) [Commissariat à l'énergie atomique et aux énergies alternatives](http://www.cea.fr)
 
 # Etablissements scolaires
 

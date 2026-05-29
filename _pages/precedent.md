@@ -11,3 +11,4 @@ layout: single
 
 + **Edition 2024**: [Résultats](2024.html) --- [Comités 2024](comites2024.html)
 + **Edition 2025**: [Résultats](2025.html) --- [Comités 2025](comites2025.html)
++ **Edition 2026**: [Résultats](2026.html) --- [Comités 2025](comites2026.html)

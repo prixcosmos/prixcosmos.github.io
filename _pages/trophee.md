@@ -9,9 +9,9 @@ layout: single
 # **Trophée des prix Cosmos**
 {: .text-center}
 
-
- 
-![meteorite](/images/trophee/photo-meteorites.JPG){: .align-center .width-50}
+<center>
+<img src="/images/trophee/photo-meteorites.JPG" alt="Météorite Campio del Cielo" width="500px">
+</center>
 
 Le prix est un spécimen de météorite découverte en Argentine à l'emplacement connu sous le nom de  [Campo del Cielo](https://fr.wikipedia.org/wiki/Campo_del_Cielo) (le champ du ciel en Espagnol) ferreuse, sidérite  de type octahédrite. C'est une météorite ferreuse composée presque exclusivement de fer et d’un peu de nickel. 
 

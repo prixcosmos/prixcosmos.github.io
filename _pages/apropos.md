@@ -43,4 +43,4 @@ vulgarisation scientifique (livre et série télévisée Cosmos en 1980) de Carl
 
 ## Contact
 
-Vous pouvez contacter le comité d'organisation en remplissant le [formulaire de contact](https://docs.google.com/forms/d/e/1FAIpQLScndjFnBdkdg4pxeIvipsr9l6bv5dw7_TOSoIZZ0VgUcwJPTA/viewform?vc=0&c=0&w=1&flr=0)
+Vous pouvez contacter le comité d'organisation en remplissant le [formulaire de contact](/etablissements-scolaires.html#contact)

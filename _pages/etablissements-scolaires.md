@@ -36,7 +36,7 @@ avant le 5 octobre 2026 à 23h59.**
 [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSc7xPSiSjyKTfQMlqJ_1OgPHbvxwQ15MeK-tH-Ok7brr4AULQ/viewform){: .btn .btn--danger}
 
 ## Formulaire de contact
-
+<a name="contact"></a>
 <!-- Formulaire de Contact -->
 <form action="https://formsubmit.co/prixcosmos@gmail.com" method="POST" class="contact-form">
 

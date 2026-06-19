@@ -18,5 +18,8 @@ main:
   - title: "Trophée"
     url: /trophee.html
 
+  - title: "Affiche"
+    url: /affiche.html
+
   - title: "Sponsors"
     url: /sponsors.html

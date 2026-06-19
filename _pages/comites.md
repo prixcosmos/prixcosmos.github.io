@@ -32,18 +32,12 @@ galleryCS:
   - image_path: /trombi/francoise-combes.png
     alt: "Françoise Combes"
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"
-  - image_path: /trombi/sacha-davidson.png
-    alt: "Sacha Davidson"
-    excerpt: "**Sacha Davidson** <br> Institut de Physique des deux Infinis de Lyon"
   - image_path: /trombi/Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
   - image_path: /trombi/nathalie-mayer.png
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
-  - image_path: /trombi/Lucie-Sarfaty.jpg
-    alt: "Lucie Sarfaty"
-    excerpt: "**Lucie Sarfaty**<br> France Inter - La Terre au Carré"
   - image_path: /trombi/Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"

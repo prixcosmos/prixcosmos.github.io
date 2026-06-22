@@ -13,4 +13,6 @@ layout: single
 
 # Affiche 2026
 
+Affiche au format [pdf (taille 10.6 Mo)](/files/2026/PosterCosmos_2026.pdf)
+
 <img src="/images/2026/PosterCosmos-2026.jpg" alt="Poster Cosmos (Copyright Eve Barlier)" width="500px">

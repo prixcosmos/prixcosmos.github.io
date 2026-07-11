@@ -41,7 +41,7 @@ galleryCS:
   - image_path: /trombi/nathalie-mayer.png
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
-  - image_path: /trombi/nathalie-mayer.png
+  - image_path: /trombi/celia-quilleret.jpeg
     alt: "Célia QUILLERET"
     excerpt: "**Célia QUILLERET** <br> France Inter"
   - image_path: /trombi/Laurent-Sacco.jpg

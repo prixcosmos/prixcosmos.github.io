@@ -32,12 +32,18 @@ galleryCS:
   - image_path: /trombi/francoise-combes.png
     alt: "Françoise Combes"
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"
+  - image_path: /trombi/Raphaelle-GRIFONE.png
+    alt: "Raphaëlle GRIFONE"
+    excerpt: "**Raphaëlle GRIFONE** <br> Maître de conférences en biologie, Sorbonne Université"
   - image_path: /trombi/Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
   - image_path: /trombi/nathalie-mayer.png
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
+  - image_path: /trombi/nathalie-mayer.png
+    alt: "Célia QUILLERET"
+    excerpt: "**Célia QUILLERET** <br> France Inter"
   - image_path: /trombi/Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"

@@ -43,7 +43,7 @@ galleryCS:
     excerpt: "**Nathalie Mayer** <br> Futura"
   - image_path: /trombi/celia-quilleret.jpeg
     alt: "Célia QUILLERET"
-    excerpt: "**Célia QUILLERET** <br> France Inter"
+    excerpt: "**Célia QUILLERET** <br> Journaliste à France Inter<br>cheffe adjointe du service sciences, santé, environnement"
   - image_path: /trombi/Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"

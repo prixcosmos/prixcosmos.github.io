@@ -32,6 +32,9 @@ galleryCS:
   - image_path: /trombi/francoise-combes.png
     alt: "Françoise Combes"
     excerpt: "**Françoise Combes** <br> Collège de France, Paris"
+  - image_path: /trombi/mathilde-fontez-portrait.png
+    alt: "Mathilde Fontez"
+    excerpt: "**Mathilde Fontez** <br> journaliste, rédactrice en chef du magazine Epsiloon ((c) Radio France -- Christophe Abramowitz)"
   - image_path: /trombi/Raphaelle-GRIFONE.png
     alt: "Raphaëlle GRIFONE"
     excerpt: "**Raphaëlle GRIFONE** <br> Maître de conférences en biologie, Sorbonne Université"

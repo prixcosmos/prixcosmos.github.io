@@ -5,7 +5,8 @@
 ## 📍 Sommaire
 
 ### 🏆 Accès direct aux éditions
-* 📅 [**Prix 2026 (Édition en cours)**](https://prixcosmos.github.io/2026.html)
+* 📅 [**Prix 2026 (Édition en cours)**](https://prixcosmos.github.io/2027.html)
+* 📜 [Prix 2026](https://prixcosmos.github.io/2026.html)
 * 📜 [Prix 2025](https://prixcosmos.github.io/2025.html)
 * 📜 [Prix 2024](https://prixcosmos.github.io/2024.html)
 
@@ -14,7 +15,7 @@
 
 ## 📖 À propos du projet
 
-Inspiré par le succès du *Premio Cosmos* en Italie, le Prix Cosmos s'inscrit dans un contexte européen (réseau [EUCAPT](https://www.eucapt.org/)) pour favoriser l'inclusion et la pensée critique. 
+Ces prix Cosmos France font partie de l'initiative Européenne [Prix Cosmos](https://cosmosprize.org).
 
 Chaque année, deux distinctions sont remises :
 1. **Le « Prix Cosmos »** : Décerné par un comité scientifique composé de chercheurs et d'experts de la médiation scientifique.

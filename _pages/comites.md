@@ -2,7 +2,7 @@
 layout: single
 toc: true
 toc_sticky: true
-toc_label: "Comités 2026"
+toc_label: "Comités 2027"
 title: "Comités Scientifiques"
 author_profile: false
 permalink: /comites.html

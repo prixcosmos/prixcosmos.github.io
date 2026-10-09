@@ -36,8 +36,8 @@ galleryCS:
     alt: "Mathilde Fontez"
     excerpt: "**Mathilde Fontez** <br> journaliste, rédactrice en chef du magazine Epsiloon ((c) Radio France -- Christophe Abramowitz)"
   - image_path: /trombi/Raphaelle-GRIFONE.png
-    alt: "Raphaëlle GRIFONE"
-    excerpt: "**Raphaëlle GRIFONE** <br> Maître de conférences en biologie, Sorbonne Université"
+    alt: "Raphaëlle Grifone"
+    excerpt: "**Raphaëlle Grifone** <br> Maître de conférences en biologie, Sorbonne Université"
   - image_path: /trombi/Julien-Masbou.png
     alt: "Julien Masbou"
     excerpt: "**Julien Masbou** <br>  Subatech, Nantes Université <br> CNRS/IN2P3 - IMT Atlantique"
@@ -45,8 +45,8 @@ galleryCS:
     alt: "Nathalie Mayer"
     excerpt: "**Nathalie Mayer** <br> Futura"
   - image_path: /trombi/celia-quilleret.jpeg
-    alt: "Célia QUILLERET"
-    excerpt: "**Célia QUILLERET** <br> Journaliste à France Inter<br>cheffe adjointe du service sciences, santé, environnement"
+    alt: "Célia Quilleret"
+    excerpt: "**Célia Quilleret** <br> Journaliste à France Inter<br>cheffe adjointe du service sciences, santé, environnement"
   - image_path: /trombi/Laurent-Sacco.jpg
     alt: "Laurent Sacco"
     excerpt: "**Laurent Sacco**<br> Futura"

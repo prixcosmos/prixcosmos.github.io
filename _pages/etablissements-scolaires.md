@@ -29,9 +29,9 @@ Pour plus d'informations, voir l'avis de participation ci-dessous
 
 [comment]: closes. Vous pouvez contacter les organisateurs avec le formulaire ci-dessous
 
-**Les inscriptions pour 2027 sont ouvertes. Si vous êtes intéressés, veuillez renseigner le formulaire d'inscription 
-avant le 5 octobre 2026 à 23h59.**
-{: .notice--warning}
+**Les inscriptions pour 2027 sont ouvertes. Si vous êtes intéressés, veuillez renseigner le formulaire d'inscription**
+<!--avant le 5 octobre 2026 à 23h59.**
+{: .notice--warning}-->
 
 [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSc7xPSiSjyKTfQMlqJ_1OgPHbvxwQ15MeK-tH-Ok7brr4AULQ/viewform){: .btn .btn--danger}
 
